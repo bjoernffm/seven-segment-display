@@ -19,7 +19,9 @@ let canvas = document.getElementById('display1');
 let display = new Display(canvas, 10, 10, 5); // canvas, xPos, yPos, numberOfCharacters
 display.setContent("abcdef");
 ```
+
 ![Example display](https://github.com/bjoernffm/seven-segment-display/blob/main/assets/example1.PNG?raw=true "Example display")
+
 That's it! You can set the content whenever you want, the set method automatically triggers the render method to show the results in the canvas.
 
 ### Extending the character set
