@@ -1,7 +1,7 @@
 # Seven Segment Display
 
 
-![Example display](https://raw.githubusercontent.com/bjoernffm/seven-segment-display/main/assets/example2.png =250x)
+![Example display](https://raw.githubusercontent.com/bjoernffm/seven-segment-display/main/assets/example2.png)
 
 ## Why using?
 The [seven segment display](https://en.wikipedia.org/wiki/Seven-segment_display) has a unique and interesting look - worth a short afternoon project. Instead of using a font that looks like the real thing, my intention was to program the whole unit from scratch creating a ardoino like api for displays which is hope interesting for you guys. This library is written in Typescript.
