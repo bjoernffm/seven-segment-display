@@ -12,7 +12,6 @@ export class Display {
        this._displays = [];
  
        for(let i: number = 0; i < length; i++) {
-          //
           this._displays.push(new SevenSegmentDisplay(this._context, x+i*90, y))
        }
     }
