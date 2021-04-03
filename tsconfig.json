@@ -1,12 +1,12 @@
 {
     "compilerOptions": {
-        "target": "ES3",
-        "sourceMap": true,
-        "lib": [
-            "es2020",
-            "dom"
-        ],
-        "noUnusedLocals": true,
-        "module": "commonjs"
+      "outDir": "./dist/",
+      "noUnusedLocals": false,
+      "noImplicitAny": true,
+      "module": "es6",
+      "target": "es5",
+      "jsx": "react",
+      "allowJs": true,
+      "sourceMap": true
     }
 }
