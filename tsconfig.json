@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES3",
+        "sourceMap": true,
+        "lib": [
+            "es2020",
+            "dom"
+        ],
+        "noUnusedLocals": true,
+        "module": "commonjs"
+    }
+}
